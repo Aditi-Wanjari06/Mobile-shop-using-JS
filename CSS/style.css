@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    color: white;
+}
+
+
+.nav {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #004d99;
+    padding: 20px;
+    font-size: 25px;
+    cursor: pointer;
+    align-items: center;
+    
+    
+}
+
+
+.search-bar {
+    font-size: 12px;
+}
+
+
+
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #004d99;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+   
+    
+}
+
+.link {
+    text-decoration: none;
+
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+
+}
+
+.main-img {
+    width: 100%;
+    height: 500px;
+    margin: 10px 0;
+
+}
+
+.brands-name {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 25px;
+    color: black;
+}
+
+.mobile-brands {
+    box-shadow: 0 0 1px 1px white;
+    border-radius: 10px;
+    margin: 20px auto;
+    width: 750px;
+    padding: 10px;
+    align-items: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 1.0);
+
+}
+
+
+
+.mobile-img {
+    width: 100px;
+    height: 45px;
+    margin: 0 20px;
+
+}
+
+#main-product-image {
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 1.0);
+    display: block;
+    margin: 20px auto;
+}
+
+.product-images-container {
+    display: flex;
+    justify-content: center;
+}
+
+
+.product-image {
+    height: 70px;
+    width: 70px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.info {
+    background-image: url("https://wallpaperaccess.com/full/4570700.jpg");
+    background-repeat: no-repeat;
+    height: 500px;
+    background-size: cover;
+    color: whitesmoke;
+    object-fit: cover;
+    padding-bottom: 0;
+    padding-top: 90px;
+
+}
+
+.heading {
+    margin-left: 50px;
+    margin-bottom: 5px;
+    
+}
+
+.content {
+    font-size: 25px;
+    margin-left: 50px;
+}
